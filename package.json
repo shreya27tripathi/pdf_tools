@@ -1,0 +1,19 @@
+{
+  "name": "pdf_tools",
+  "version": "1.0.0",
+  "description": "This project is a basic project depicting pdf tools",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/shreya27tripathi/pdf_tools"
+  },
+  "author": "Shreya_Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
